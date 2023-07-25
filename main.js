@@ -21,4 +21,4 @@ b.push(a[i]);
 
 }
 document.write("a="+b+"<br>");
-document.write(n+"Smallest Number:"+b[n-1]);
+document.write(n+"&nbsp Smallest Number:"+b[n-1]);
