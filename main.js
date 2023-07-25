@@ -20,4 +20,5 @@ for(let i=0;i<arr;i++){
 b.push(a[i]);
 
 }
-document.write("Smallest Number:"+b[n-1]);
+document.write("a="+b+"<br>");
+document.write(n+"Smallest Number:"+b[n-1]);
